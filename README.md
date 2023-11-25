@@ -1,2 +1,2 @@
-# SchooliGo-Mobile-Application
+# SchooliGo - Mobile Application
  
