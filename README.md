@@ -4,11 +4,27 @@
 
 ### Introduction
 
-SCHOOLIGO : Transforming School Transportation
-Enhanced Safety: Real-time tracking for secure student transportation
-Seamless Connectivity: Connects parents, students, drivers, and schools
-User-Friendly App: Easy-to-use mobile application for convenient access
-Transparency: Provides real-time bus locations and updates to parents
-Efficient Operations: Streamlines school transportation management
-Customizable Solutions: Tailored features to meet unique school needs
-Modern Standard: Sets a new benchmark for school transportation systems
+> * **SCHOOLIGO** : Transforming School Transportation
+> * Enhanced Safety : Real-time tracking for secure student transportation
+> * Seamless Connectivity : Connects parents, students, drivers, and schools
+> * User-Friendly App : Easy-to-use mobile application for convenient access
+> * Transparency : Provides real-time bus locations and updates to parents
+> * Efficient Operations : Streamlines school transportation management
+> * Customizable Solutions : Tailored features to meet unique school needs
+> * Modern Standard : Sets a new benchmark for school transportation systems
+
+### Prototype View of the Application
+
+> <img src="https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/9425627_787%20copy.jpg?raw=true)https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/9425627_787%20copy.jpg?raw=true">
+
+### Wireframe Design
+
+> <img src="https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Project%20Files/Wireframe/Wireframe.png?raw=true">
+
+### Mockup Design
+
+> <img src="https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Project%20Files/Mockup/Mockup.png?raw=true">
+
+### Prototype Design
+
+> <img src="https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Interface%20Outputs/Wireframe/Prototype.png?raw=true">
