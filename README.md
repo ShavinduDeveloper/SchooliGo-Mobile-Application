@@ -38,3 +38,5 @@
 > <img src="https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Interface%20Outputs/Wireframe/Prototype.png?raw=true">
 
 <a href="https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/7c04d310d50b1774d1e2a5cdb6412e1158ec741e/SchooliGo%20Mobile%20Application/Interface%20Outputs/Wireframe/Prototype.png">View File</a>
+
+---
